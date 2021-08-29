@@ -20,7 +20,7 @@ usbrh [-dlfVRGH]
     (オプションなし)				# 日付・時刻、温度・湿度を表示
     -d  : Enable debugging			# デバッグ情報の表示
     -h  : Show usage			# 使用方法の表示
-    -l  : Show device list             	# 接続デバイスの一覧表示
+    -l  : Show device list			# 接続デバイスの一覧表示
     -sn : Specify device number (n=0:all)	# 複数接続時のデバイス指定(n=0:すべて)
     -V  : Show firmware version		# ファームウェアバージョンの表示
     -Rn : Control Red   LED (0:off, 1:on)	# LED(赤)のON/OFF
