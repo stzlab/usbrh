@@ -1,0 +1,6 @@
+#
+# HIDAPI/hidraw
+#
+
+# USBRH/Strawberry Linux
+KERNEL=="hidraw*", ATTRS{busnum}=="1", ATTRS{idVendor}=="1774", ATTRS{idProduct}=="1001", MODE="0666"
